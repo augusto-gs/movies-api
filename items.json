@@ -4,42 +4,42 @@
       "id": 1,
       "name": "The Shawshank Redemption",
       "year": 1994,
-      "image_url": "https://ibb.co/y6pMcB0",
+      "image_url": "https://i.ibb.co/ZhhrmMn/71715e-Bi1s-L-AC-SL1000.webp",
       "duration": 142
     },
     {
       "id": 2,
       "name": "The Godfather",
       "year": 1972,
-      "image_url": "https:/ibb.co/BggJNCX",
+      "image_url": "https://i.ibb.co/9w1qq0r/the-godfather.webp",
       "duration": 175
     },
     {
       "id": 3,
       "name": "The Dark Knight",
       "year": 2008,
-      "image_url": "https:/ibb.co/wynQ6RD",
+      "image_url": "https://i.ibb.co/xY7GftQ/the-dark-knight.webp",
       "duration": 152
     },
     {
       "id": 4,
       "name": "The Godfather Part II",
       "year": 1974,
-      "image_url": "https:/ibb.co/f9xtnz7",
+      "image_url": "https://i.ibb.co/gD4C3Nq/the-godfathter-part-2.webp",
       "duration": 202
     },
     {
       "id": 5,
       "name": "12 Angry Men",
       "year": 1957,
-      "image_url": "https:/ibb.co/28Cjjrk",
+      "image_url": "https://i.ibb.co/482DngW/12-angry-men.webp",
       "duration": 96
     },
     {
       "id": 6,
       "name": "Schindler's List",
       "year": 1993,
-      "image_url": "https:/ibb.co/HrhQV6w",
+      "image_url": "https://i.ibb.co/ZdQgTVy/schindlers-list.webp",
       "duration": 195
     }
   ]
