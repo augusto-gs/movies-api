@@ -3,32 +3,44 @@
     {
       "id": 1,
       "name": "The Shawshank Redemption",
-      "year": 1994
+      "year": 1994,
+      "image_url": "https://ibb.co/y6pMcB0",
+      "duration": 142
     },
     {
       "id": 2,
       "name": "The Godfather",
-      "year": 1972
+      "year": 1972,
+      "image_url": "https:/ibb.co/BggJNCX",
+      "duration": 175
     },
     {
       "id": 3,
       "name": "The Dark Knight",
-      "year": 2008
+      "year": 2008,
+      "image_url": "https:/ibb.co/wynQ6RD",
+      "duration": 152
     },
     {
       "id": 4,
       "name": "The Godfather Part II",
-      "year": 1974
+      "year": 1974,
+      "image_url": "https:/ibb.co/f9xtnz7",
+      "duration": 202
     },
     {
       "id": 5,
       "name": "12 Angry Men",
-      "year": 1957
+      "year": 1957,
+      "image_url": "https:/ibb.co/28Cjjrk",
+      "duration": 96
     },
     {
       "id": 6,
       "name": "Schindler's List",
-      "year": 1993
+      "year": 1993,
+      "image_url": "https:/ibb.co/HrhQV6w",
+      "duration": 195
     }
   ]
 }
